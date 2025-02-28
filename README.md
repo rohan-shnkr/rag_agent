@@ -1,4 +1,3 @@
-%%writefile README.md
 # RAG Based Cover Letter Generator
 
 This was part of a Booth analytics Workshop that I conducted to showcase how to build a RAG agent.
